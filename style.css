@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family:sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    background-color: aqua;
+}
+
+#game {
+    background-color: burlywood;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
